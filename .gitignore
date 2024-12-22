@@ -1,0 +1,16 @@
+.idea/
+.tmp/
+/reports
+test/tmp/
+/node_modules
+.vscode
+.DS_Store
+.env
+test/features/desktop/tmp
+test/features/prod/tmp
+test/features/mobile/tmp
+test/features/tablet/tmp
+/allure-report
+/allure-results
+**/*/tmp
+.eslintcache
